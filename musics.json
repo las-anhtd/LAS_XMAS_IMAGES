@@ -1,0 +1,14 @@
+{
+	[
+		{
+			id: 0,
+			name: "We wish you a Merry Christmas"
+			url: "https://raw.githubusercontent.com/las-anhtd/LAS_XMAS_IMAGES/main/Music/we-wish-you-a-merry-christmas.mp3"
+		},
+		{
+			id: 1,
+			name: "Jingle Bells"
+			url: "https://raw.githubusercontent.com/las-anhtd/LAS_XMAS_IMAGES/main/Music/jingle-bells.mp3.png"
+		},
+	]
+}
